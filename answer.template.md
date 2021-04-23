@@ -5,7 +5,8 @@
     - Level of Topic: e.g. Beginner, Intermediate, Advanced
     - Question Source: e.g. Itdaa, Conference
 
-- Mentee Info (should follow [the concept of personal data](https://en.wikipedia.org/wiki/Personal_data))
+- Mentee Info (should
+  follow [the concept of personal data](https://en.wikipedia.org/wiki/Personal_data))
     - Initial:
     - Background:
     - Direction:
